@@ -1,4 +1,4 @@
-
+<img src="./github.png" width="100%" alt="GitHub Profile" align="right">
 
 #  About Me:
 🛠️ I’m currently working on:  <br>Building scalable backend systems using .NET Core, JavaScript frameworks, and clean architectural principles. I focus on writing high-quality, test-driven code and automating deployments with CI/CD pipelines.<br><br>🤝 I’m looking to collaborate on:  <br>Open-source projects, backend architecture improvements, and developer tooling that make teams more productive.<br><br>🙋‍♂️ I’m looking for help with:  <br>Exploring advanced infrastructure-as-code practices and improving observability in cloud-native systems.<br><br>🌱 I’m currently learning:  <br>Terraform for infrastructure automation, and diving deeper into distributed systems and DevOps best practices.<br><br>💬 Ask me about:  <br>.NET development, clean code, test-driven development (TDD), CI/CD, and how to build maintainable backend systems.<br><br>⚡ Fun fact:  <br>I once built a real-time error logging tool that alerts developers instantly via Telegram — crash reports delivered like messages!
